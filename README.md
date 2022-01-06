@@ -3,8 +3,6 @@ Understanding the properties of products and stores which play a key role in inc
 Dataset description :  This dataset contains sales data for 1559 products across 10 stores in different cities in a csv file format. Also, certain attributes of each product and store have been defined.
 
 In this project we are understanding the properties of products and stores which play a key role in increasing sales. We are analyzing this data using R to gain insights from different products across different stores to observe trends. We have performed missing value treatment and feature engineering to make the data ready for prediction. We performed label encoding to categorically separate size and location. We have presented the analysis with the help of visualizations.
-![image](https://user-images.githubusercontent.com/79992803/148335228-654768f4-da90-4001-880e-3051558c5445.png)
-![image](https://user-images.githubusercontent.com/79992803/148335248-8439461d-0bda-435e-be34-ca092c9269d2.png)
 
 Visualizations:
 Count of Item Outlet Sales:
@@ -15,6 +13,7 @@ Count of Item weight, Item visibility, Item MRP:
 
 Stablizing the data to ensure consistency:
 ![image](https://user-images.githubusercontent.com/79992803/148335320-2a72a2b3-7cb8-4c81-ad0b-9eb751be2024.png)
+
 ![image](https://user-images.githubusercontent.com/79992803/148335324-485c3e2f-ecb3-4fce-b962-55cded409b95.png)
 
 Showing the count of different item types:
