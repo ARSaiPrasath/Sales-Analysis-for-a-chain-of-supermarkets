@@ -5,6 +5,7 @@ Dataset description :  This dataset contains sales data for 1559 products across
 In this project we are understanding the properties of products and stores which play a key role in increasing sales. We are analyzing this data using R to gain insights from different products across different stores to observe trends. We have performed missing value treatment and feature engineering to make the data ready for prediction. We performed label encoding to categorically separate size and location. We have presented the analysis with the help of visualizations.
 
 Visualizations:
+
 Count of Item Outlet Sales:
 ![image](https://user-images.githubusercontent.com/79992803/148335277-d301ade4-343b-48aa-9d14-5a43dbd4f16b.png)
 
