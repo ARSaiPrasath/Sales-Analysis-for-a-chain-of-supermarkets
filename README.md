@@ -12,6 +12,7 @@ Count of Item weight, Item visibility, Item MRP:
 ![image](https://user-images.githubusercontent.com/79992803/148335292-2e04f289-e311-4c31-866b-1eb842e4fe11.png)
 
 Stablizing the data to ensure consistency:
+
 ![image](https://user-images.githubusercontent.com/79992803/148335320-2a72a2b3-7cb8-4c81-ad0b-9eb751be2024.png)
 
 ![image](https://user-images.githubusercontent.com/79992803/148335324-485c3e2f-ecb3-4fce-b962-55cded409b95.png)
