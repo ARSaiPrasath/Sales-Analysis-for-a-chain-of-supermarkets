@@ -2,7 +2,7 @@
 Understanding the properties of products and stores which play a key role in increasing sales
 Dataset description :  This dataset contains sales data for 1559 products across 10 stores in different cities in a csv file format. Also, certain attributes of each product and store have been defined.
 
-In this project we are understanding the properties of products and stores which play a key role in increasing sales. We are analyzing this data using R to gain insights from different products across different stores to observe trends. We have performed missing value treatment and feature engineering to make the data ready for prediction. We performed label encoding to categorically separate size and location. We have presented the analysis with the help of visualizations.
+In this project, the properties of products and stores which play a key role in increasing sales are understood. I am analyzing this data using R to gain insights from different products across different stores to observe trends. I have performed missing value treatment and feature engineering to make the data ready for prediction. I performed label encoding to categorically separate size and location. I have presented the analysis with the help of visualizations.
 
 Visualizations:
 
